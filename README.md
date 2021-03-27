@@ -22,4 +22,4 @@ Testing Browser: Microsoft Edge (89.0.774.57 / 64-bit)
 
 Here it is
 
-[https://open.spotify.com/playlist/1MCTsIbzkeYeWs2AxxLA5D?si=-YjcdipcTqqhvDs4ZRWc6g]
+https://open.spotify.com/playlist/1MCTsIbzkeYeWs2AxxLA5D?si=-YjcdipcTqqhvDs4ZRWc6g

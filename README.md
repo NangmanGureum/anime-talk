@@ -8,7 +8,8 @@ This project is an assignment for Nomadcoders' KOKOA TALK clone challenge
 
 ### Anime - Keep Your Hands Off Eizouken
 
-This anime is about to make an anime.[br]The director is Masaaki Yuasa of Science SARU
+This anime is about to make an anime.  
+The director is Masaaki Yuasa of Science SARU
 
 ## How makes?
 
@@ -18,7 +19,7 @@ Laptop: MacBook Pro (13", M1, 2020)
 Editor: Visual Studio Code  
 Testing Browser: Microsoft Edge (89.0.774.57 / 64-bit)
 
-## Listing music when I coding
+### Listing music when I coding
 
 Here it is
 

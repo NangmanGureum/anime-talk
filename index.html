@@ -23,7 +23,17 @@
     </div>
     
     <div class="screen">
+        <header class="screen__login-header">
+            <h1>Welcome to ANIME TALK!</h1>
+            <p>If you have a ANIME TALK account, log in with your email or phone number</p>
+        </header>
 
+        <!-- 원래는 method="GET"로 써야 되나 브라우저 문제로 당분간 이렇게 해놓음 -->
+        <form action="friends.html" method="POST" class="screen__login-form">
+            <input class="screen__login-form__textbox" name="username" type="text" placeholder="Email or phone number">
+            <input class="screen__login-form__textbox" name="password" type="password" placeholder="Password">
+            <input type="submit" value="Log In">
+        </form>
     </div>
 
     <!-- Font Awsome -->

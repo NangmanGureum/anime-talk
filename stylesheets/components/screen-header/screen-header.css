@@ -1,0 +1,23 @@
+.screen-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2vh 2vw;
+
+  border-bottom: 1px;
+  border-color: var(--dougablack);
+  border-style: solid;
+}
+
+.screen-header__title {
+  font-size: 5vw;
+}
+
+.screen-header__icons {
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+
+  padding-top: 1vw;
+  font-size: 3vw;
+}

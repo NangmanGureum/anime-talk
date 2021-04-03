@@ -24,3 +24,10 @@
 /* Login Page */
 @import "screens/login/login.css";
 @import "screens/login/login__media.css";
+
+/* ==================== */
+/*         Fonts        */
+/* ==================== */
+
+/* Nanum Pen Script */
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap");

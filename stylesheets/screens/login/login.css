@@ -34,13 +34,19 @@
 
 .screen__login-form__textbox {
   border-radius: 5px;
-  font-size: 3vh;
+  font-size: 4vh;
   padding: 1.5vh 2vw;
+  padding-bottom: 2.5vw;
   margin-bottom: 2vh;
+
+  font-family: var(--pen-script);
+  color: var(--dougablack);
 }
 
 .screen__login-form__textbox::placeholder {
+  font-family: var(--font-default);
   color: var(--paperblack);
+  font-size: 3vh;
 }
 
 .screen__login-form input[type="submit"] {

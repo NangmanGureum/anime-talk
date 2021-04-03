@@ -1,0 +1,37 @@
+.nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: var(--main-bg-color);
+  padding: 20px 50px;
+  box-sizing: border-box;
+  border-top: solid 2px var(--paperblack);
+}
+
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__list__btn {
+  position: relative;
+}
+
+.nav__list__notif {
+  width: 5vw;
+  height: 5vw;
+
+  font-size: 5vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: var(--dougablack);
+
+  position: absolute;
+  left: 5vw;
+  bottom: 5vw;
+
+  font-family: var(--pen-script);
+}

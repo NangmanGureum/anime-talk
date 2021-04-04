@@ -1,0 +1,7 @@
+/* Mobile Small */
+
+@media screen and (max-width: 400px) {
+  .nav {
+    padding: 20px 30px;
+  }
+}
